@@ -1,0 +1,108 @@
+ul {
+
+    list-style-type: none;
+}
+
+li {
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+}
+
+ol {
+
+    list-style-type: upper-alpha;
+
+}
+
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    caption-side: bottom;
+}
+
+table th {
+    border: 1px dotted black;
+    padding: 10px;
+}
+
+table td {
+    border: 1px dotted black;
+    padding: 10px;
+}
+
+.form {
+    text-align: center;
+
+}
+
+
+.album {
+    padding: 15px;
+    background-image: url('https://images.unsplash.com/photo-1511992243105-2992b3fd0410?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+    background-position: center;
+    background-size: cover;
+    background-color: tomato;
+    text-align: center;
+}
+
+.cards {
+    margin: 20px auto;
+    width: 700px;
+}
+.postbox {
+    margin:20px auto;
+    width: 700px;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 1px 1px gray;
+}
+
+.main {
+
+    color:white;
+    background-image: url('https://occ-0-1123-1217.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeIfo7VL_VDyKnljV66IkR-4XLb6xpZqhpLSo3JUtbivnEW4s60PD27muH1mdaANM_8rGpgbm6L2oDgA_iELHZLZ2IQjG5lvp5d2.jpg?r=e6e.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+body {
+    background-color: black;
+}
+
+.mycards {
+
+    margin: 20px auto;
+    width: 700px;
+}
+
+.flabel {
+    margin: 20px auto;
+    width: 700px;
+
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.flabel label {
+    background-color: transparent;
+    color: white;
+}
+
+
+.flabel input {
+    background-color: transparent;
+}
+
+.flabel button {
+    width: 100%;
+}
